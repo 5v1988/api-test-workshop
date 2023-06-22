@@ -1,0 +1,18 @@
+{
+  "name": "Daniel",
+  "gender": "male",
+  "age": 45,
+  "location": "London",
+  "social_profiles": [
+    "LinkedIn"
+  ],
+  "is_employed": true,
+  "attributes": {
+    "weight": 85,
+    "height": 179,
+    "complex": "white"
+  },
+  "hobbies": [
+    "surfing"
+  ]
+}
